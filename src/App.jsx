@@ -1,6 +1,6 @@
 import './App.css';
 import { Hero } from './components/Hero/Hero';
-import { Navigation } from './components/navigation/Navigation';
+import { Navigation } from './components/Navigation/Navigation';
 import { About } from './components/About/About';
 import { useIntersectionObservers } from './hooks/useIntersectionObservers';
 import { useScrollToTop } from './hooks/useScrollToTop';
